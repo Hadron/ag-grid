@@ -1,0 +1,13 @@
+Source: ag-grid
+Section: web
+Priority: optional
+Maintainer: Klee Dienes <klee.dienes@hadronindustries.com>
+Build-Depends: dpkg-dev
+Standards-Version: 3.9.6
+Homepage: http://getbootstrap.com/
+
+Package: libjs-ag-grid
+Architecture: all
+Depends: ${misc:Depends}
+Description: ag-grid
+ ag-grid
